@@ -1,5 +1,5 @@
 /* Contoh Program dalam Bahasa C++ */
-// C++ program to illustrate the feholdexcept() function
+// C program to illustrate the feholdexcept() function
 
 /*	Source by GeeksForGeeks
 	Modified for Learn by Rizky Khapidsyah
